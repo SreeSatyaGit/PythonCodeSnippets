@@ -12,6 +12,7 @@
 To run `Umap_Csv.py`, you need to have Python installed on your system along with the following libraries:
 - NumPy
 - Pandas
+- SCANPY
 - Scikit-learn
 - UMAP-learn
 - Matplotlib (optional, for visualization)
