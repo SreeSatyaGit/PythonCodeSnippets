@@ -1,7 +1,7 @@
-# Umap_Csv.py
+# Research work code snippets
 
 ## Overview
-`Umap_Csv.py` is a Python script developed as part of a research project aimed at mapping cellular gene expressions to cell surface protein markers. This script implements various data processing techniques, clustering, and dimensionality reduction methods to analyze and interpret complex biological data efficiently.
+[umap_csv.ipynb](umap_csv.ipynb) is a python script developed as part of a research project under [Dr. Kiran Vanaja](https://roux.northeastern.edu/people/kiran-vanaja/) aimed at mapping cellular gene expressions to cell surface protein markers. This script implements various data processing techniques, clustering, and dimensionality reduction methods to analyze and interpret complex biological data efficiently.
 
 ## Features
 - **Data Preprocessing**: Implements techniques for cleaning and normalizing gene expression data.
@@ -9,7 +9,7 @@
 - **Dimensionality Reduction**: Employs techniques such as UMAP (Uniform Manifold Approximation and Projection) to reduce the dimensionality of the data, facilitating its visualization and interpretation.
 
 ## Dependencies
-To run `Umap_Csv.py`, you need to have Python installed on your system along with the following libraries:
+To run [umap_csv.ipynb](umap_csv.ipynb), you need to have Python installed on your system along with the following libraries:
 - NumPy
 - Pandas
 - SCANPY
